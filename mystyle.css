@@ -1,8 +1,16 @@
-body {
-    background-color: rgb(63, 36, 184);
+  body {
+    background-color: lightcoral;
+    font-family: 'Arial', Helvetica, Verdana;
+    font-weight: bold; 
+  font-size: large; 
   }
   
   h1 {
     color: navy;
+    margin-left: 20px;
+  }
+
+  p {
+    color: darkred;
     margin-left: 20px;
   }
